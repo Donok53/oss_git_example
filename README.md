@@ -90,5 +90,5 @@
 -------------
 ### Week3     Markdown
 * Markdown
-    >> A lightweight markup language for creating formatted text using a plain-text editor    
+  >> A lightweight markup language for creating formatted text using a plain-text editor    
 [Markdown tutorial](https://www.markdowntutorial.com/)
