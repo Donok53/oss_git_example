@@ -70,7 +70,7 @@
 ### Week2-3 Github, fork, pull request
 * Github
   > 쉽고 효율적인 버전 관리를 할 수 있는 git을 통해 만들어진 코드가 공유되는 커뮤니티 공간 
-   
+
   > 타인과 협업하면서 프로젝트를 개발할 수 있도록 도와준다.  
 
 * Git 협업과정(Fork, pull request)  
@@ -80,8 +80,7 @@
     2. Fork는 내 공간으로 아무리 수정해도 원본 저장소에 영향을 끼치진 않음  
 
   > Pull request  
-
-    >> Pull Request는 내가 수정한 Commit들을 원본 Repository에 반영(Pull)해줄 것을 요청(Request)하는 작업이다.
+    1. Pull Request는 내가 수정한 Commit들을 원본 Repository에 반영(Pull)해줄 것을 요청(Request)하는 작업이다.
 
   > 그 외(clone, Branch, Commit & Push, Fetch)등이 있다.
 
