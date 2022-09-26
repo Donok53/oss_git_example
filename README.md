@@ -51,10 +51,10 @@
 * Git
     > 리눅스 커널로 개발됨
     > distributed version control system임.
-      >> Workspace
-      >> Index
-      >> Local repository
-      >> Remote repository
+        >> Workspace
+        >> Index
+        >> Local repository
+        >> Remote repository
 
 ![Image] (그림.png)
 
