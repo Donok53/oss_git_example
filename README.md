@@ -72,11 +72,12 @@
   > 쉽고 효율적인 버전 관리를 할 수 있는 git을 통해 만들어진 코드가 공유되는 커뮤니티 공간
   > 타인과 협업하면서 프로젝트를 개발할 수 있도록 도와준다.  
 
-* Git 협업과정(Fork, pull request)
-  > Fork  
+* Git 협업과정(Fork, pull request)  
 
+  > Fork  
     1. Fork란 타인 소유의(또는 공동 소유의) 프로젝트 소스와 commit 내역, branch 등 원본 Remote Repository의 구조를 그대로 복사하여 내 소유의 새로운 Remote Repository로 생성하는 기능이다.
-    2. Fork는 내 공간으로 아무리 수정해도 원본 저장소에 영향을 끼치진 않음
+    2. Fork는 내 공간으로 아무리 수정해도 원본 저장소에 영향을 끼치진 않음  
+
   > Pull request  
 
     1. Pull Request는 내가 수정한 Commit들을 원본 Repository에 반영(Pull)해줄 것을 요청(Request)하는 작업이다.
@@ -90,5 +91,4 @@
 ### Week3     Markdown
 * Markdown
     >> A lightweight markup language for creating formatted text using a plain-text editor  
-    
     >> [Markdown tutorial] (https://www.markdowntutorial.com/)
