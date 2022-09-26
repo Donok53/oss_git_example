@@ -21,10 +21,13 @@
 
 -------------
 ### Week1-2 오픈소스소프트웨어 개요
-* OSS(Open Source Software) License
+* OSS(Open Source Software) License  
+
     > right(권리)의 범위를 지정한 것
     > 사용, 복제, 수정, 배포 권한의 범위를 지정
-* OSS Examples
+
+* OSS Examples  
+
     > GPL
     > LGPL
     > MIT License
@@ -35,14 +38,18 @@
 
 -------------
 ### Week2-1 버전 관리 개요
+
 * Version Control System(VCS)
     > Track your files over time so that you can easily get back to a previous working version
+
 * VCS software Examples
+
     > CVS
     > SVN
     > Mercurial
     > Darcs
     > Git
+
 * Git
     > git을 활용하여 버전 관리를 하려함.
 
@@ -82,5 +89,6 @@
 -------------
 ### Week3     Markdown
 * Markdown
-    >> A lightweight markup language for creating formatted text using a plain-text editor
+    >> A lightweight markup language for creating formatted text using a plain-text editor  
+    
     >> [Markdown tutorial] (https://www.markdowntutorial.com/)
