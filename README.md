@@ -50,7 +50,8 @@
 ### Week2-2 Git
 * Git
     > 리눅스 커널로 개발됨
-    > distributed version control system임.
+    > distributed version control system임.  
+  
       1. Workspace
       2. Index
       3. Local repository
