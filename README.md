@@ -51,12 +51,12 @@
 * Git
     > 리눅스 커널로 개발됨    
     > distributed version control system    
-      >> Workspace
-      >> Index
-      >> Local repository
-      >> Remote repository
+      1. Workspace
+      2. Index
+      3. Local repository
+      4. Remote repository
 
-![Image] (그림.png)
+![KakaoTalk_20220926_172207479](https://user-images.githubusercontent.com/74405066/192235061-77706160-38dd-493b-bce1-ddf10773e363.jpg)
 
 -------------
 ### Week2-3 Github, fork, pull request
